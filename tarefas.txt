@@ -14,3 +14,5 @@ o que tenho de fazer:
 ª testar as "calças" do samurai;
 ª modelar as "botas" do samurai;
 ª texturizar as "botas" do samurai;
+
+por enquanto, é isso.
