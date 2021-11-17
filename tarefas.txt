@@ -1,0 +1,16 @@
+o que consegui fazer:
+º definir diretórios suficiente além do conceito, delimitando até onde irei com a resource pack;
+º terminei o modelo do elmo de samurai em sua forma;
+º adicionei elementos para remover depois, assim posso estimular o uso de comandos de maneira mais branda;
+
+o que tenho de fazer:
+ª terminar o elmo de samurai, adicionando textura;
+ª testar o elmo;
+ª modelar peitoral de samurai;
+ª texturizar peitoral de samurai;
+ª testar peitoral de samurai;
+ª modelar as "calças" do samurai;
+ª texturizar as "calças" do samurai;
+ª testar as "calças" do samurai;
+ª modelar as "botas" do samurai;
+ª texturizar as "botas" do samurai;
